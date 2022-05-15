@@ -16,8 +16,8 @@ Bana ulaşmak veya hakkımda daha fazla bilgi edinmek isterseniz internet sitemd
 <a href="https://www.blender.org" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender3D" width="38"/></a> 
   
-<a href="https://www.adobe.com/tr/products/photoshop.html" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="38"/></a> 
+<a href="https://www.solidworks.com/tr?utm_medium=cpc&utm_source=google&utm_campaign=202001_glo_ps_sea_tr_XOP6888_labl_brand_eme_tr&mktid=&gclid=Cj0KCQjwyYKUBhDJARIsAMj9lkG2_NIqHTAR9KWZEwgbYK09pnBI5dNjdBkTbx2P13IPDU3B9VpMkNgaAgfqEALw_wcB" target="blank">
+    <img align="center" src="https://storage.googleapis.com/designify-images-tmp/5a9d31e5-e8cc-4300-bccb-b007fc85aa51.png" alt="Adobe Photoshop" width="38"/></a> 
  
 <a href="https://www.python.org" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="38"/></a> 
