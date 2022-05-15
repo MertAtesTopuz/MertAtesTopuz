@@ -31,7 +31,7 @@
 <a href="https://www.aseprite.org" target="blank">
     <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
 </p>
-<br><br>
+
 </details>
 
 <br/>
