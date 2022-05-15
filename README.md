@@ -17,7 +17,7 @@ Bana ulaşmak veya hakkımda daha fazla bilgi edinmek isterseniz internet sitemd
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender3D" width="38"/></a> 
   
 <a href="https://www.solidworks.com/tr?utm_medium=cpc&utm_source=google&utm_campaign=202001_glo_ps_sea_tr_XOP6888_labl_brand_eme_tr&mktid=&gclid=Cj0KCQjwyYKUBhDJARIsAMj9lkG2_NIqHTAR9KWZEwgbYK09pnBI5dNjdBkTbx2P13IPDU3B9VpMkNgaAgfqEALw_wcB" target="blank">
-    <img align="center" src="ffile:///Users/mertatestopuz/Downloads/png-clipart-solidworks-computer-software-3d-computer-graphics-computer-aided-design-design-3d-computer-graphics-text%20(1).png" alt="Solidworks" width="38"/></a> 
+    <img align="center" src="https://pbs.twimg.com/profile_images/2915139264/c84035a7d2eb9ede8f23fa6104dc2e5c_400x400.png" alt="Solidworks" width="38"/></a> 
  
 <a href="https://www.python.org" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="38"/></a> 
