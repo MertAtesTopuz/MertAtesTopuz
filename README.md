@@ -27,6 +27,9 @@ Bana ulaşmak veya hakkımda daha fazla bilgi edinmek isterseniz internet sitemd
   
 <a href="https://www.w3schools.com/css/default.asp" target="blank">
     <img align="center" src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40"/></a> 
+    
+<a href="https://www.aseprite.org" target="blank">
+    <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
 </p>
 
 </details>
