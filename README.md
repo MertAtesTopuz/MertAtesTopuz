@@ -49,7 +49,7 @@
 <details>
 <summary>📫 How To Reach Me</summary>
 - Discord: Mergen#8451<br>
-- Web Page: [mertatestopuz](http://mertatestopuz.cf/ "http://mertatestopuz.cf/")
+- Web Page:mertatestopuz
 
 
 </details>
