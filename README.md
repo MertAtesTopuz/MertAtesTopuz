@@ -4,8 +4,9 @@
 2018'den bu yana içerisinde bulunduğum OverDrive Tech şirketinde hem Koordinatörlük hem de yazılım geliştirme liderliğini yürütmekteyim. Ekibimle birlikte özellikle oyun geliştirme üzerine çalışmakta, bunlarla ilgili maratonlara katılmaktayız. Bu girişimcilik serüvenine girişim 3D yazıcılara olan ilgimle beraber OverDrive ile tanışmamla başladı. Daha sonra çeşitli ürünler geliştirmeye başladık en son da bunların içerisinde yeni oyunlarımız dahil oldu. Bu süreçte özellikle 2021 yılında ben ve ekibim oyun geliştirme maratonlarında (gamejam) yakaladığımız başarıyla adımızdan oldukça söz ettirdik. Ayrıca kendimi 3B tasarım, Front-end, Oyun geliştirme ve Endüstriyel tasarım alanlarında kendimi geliştirdim ve geliştirmeye de devam ediyorum.
 
 <br/>
-<details>
-<summary>:bulb:  Languages and Tools</summary>
+
+<summary></summary>
+<p> <h2 align="center"> <summary>:bulb:  Languages and Tools</summary> </h2> </p>
 <p align="left">
 <a href="https://unity.com" target="blank">
     <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="35"/></a>
@@ -32,24 +33,15 @@
     <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
 </p>
 
-</details>
-
 <br/>
 
-<details>
-<summary>📈 Github Stats</summary>
+<p> <h2 align="center"> <summary>📈 Github Stats</summary> </h2> </p>
 <img src=https://github-readme-stats.vercel.app/api?username=MertAtesTopuz&&show_icons=true&title_color=fffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 >
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MertAtesTopuz&layout=compacticons=true&title_color=fffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 >
 <img src= https://github-readme-streak-stats.herokuapp.com/?user=MertAtesTopuz&theme=tokyonight&date_format=j%20M%5B%20Y%5D
  >
-
-    
-</details>
+ 
 <br>
-<details>
-<summary>📫 How To Reach Me</summary>
+<p> <h2 align="center"> <summary>📫 How To Reach Me</summary> </h2> </p>
 - Discord: Mergen#8451<br>
 - Web Page: http://mertatestopuz.cf/
-
-
-</details>
