@@ -31,7 +31,7 @@
 <a href="https://www.aseprite.org" target="blank">
     <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
 </p>
-
+<br><br>
 </details>
 
 <br/>
@@ -48,7 +48,7 @@
 
 <details>
 <summary>📫 How To Reach Me</summary>
-- Discord: Mergen#8451
+- Discord: Mergen#8451<br>
 - Web Page: [mertatestopuz](http://mertatestopuz.cf/ "http://mertatestopuz.cf/")
 
 </details>
