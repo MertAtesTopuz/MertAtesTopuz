@@ -44,6 +44,7 @@ Bana ulaşmak veya hakkımda daha fazla bilgi edinmek isterseniz internet sitemd
  >
 
 </details>
+<br><br>
 
 <h2 align="left"> 📫 How To Reach Me: </h2>
 
