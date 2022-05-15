@@ -44,3 +44,9 @@ Bana ulaşmak veya hakkımda daha fazla bilgi edinmek isterseniz internet sitemd
  >
 
 </details>
+
+<h2 align="left"> 📫 How To Reach Me: </h2>
+
+- Discord: Mergen#8451
+- Web Page: [mertatestopuz](http://mertatestopuz.cf/ "http://mertatestopuz.cf/")
+
