@@ -42,10 +42,10 @@
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MertAtesTopuz&layout=compacticons=true&title_color=fffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 >
 <img src= https://github-readme-streak-stats.herokuapp.com/?user=MertAtesTopuz&theme=tokyonight&date_format=j%20M%5B%20Y%5D
  >
-<br><br>
+
     
 </details>
-
+<br><br>
 <details>
 <summary>📫 How To Reach Me</summary>
 - Discord: Mergen#8451<br>
