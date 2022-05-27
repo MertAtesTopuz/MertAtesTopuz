@@ -1,10 +1,13 @@
  <p> <h1 align="center"> Hi there, I'm Mert. <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1> </p>
 
 
-Coordinator at @overdrive_tr Mentor at @maximusrobotics Game & Web Developer 3D Artist
+Coordinator at @overdrive_tr
+Mentor at @maximusrobotics 
+Game & Web Developer 
+3D Artist
 <br/>
 
-<summary></summary>
+
 <p> <h2 align="center"> :bulb:  Languages and Tools</h2> </p>
 <p align="center">
 <a href="https://unity.com" target="blank">
