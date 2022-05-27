@@ -1,10 +1,12 @@
  <p> <h1 align="center"> Hi there, I'm Mert. <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1> </p>
 
 
+<p align = "center">
 Coordinator at @overdrive_tr
 Mentor at @maximusrobotics 
 Game & Web Developer 
 3D Artist
+</p>
 <br/>
 
 
