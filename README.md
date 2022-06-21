@@ -1,5 +1,5 @@
  <p> <h1 align="center"> Hi there, I'm Mert. </h1> </p>
- //<a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"></a>
+
 
 
 <p align = "center">
