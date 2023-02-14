@@ -49,5 +49,5 @@ Game & Web Developer
 
 <br>
 <p> <h2 align="center"> 📫 How To Reach Me </h2> </p>
-<p align="center">- Discord: Mergen#8451 </p>            <p align="center">- Web Page: http://mertatestopuz.cf/ </p> 
+<p align="center">- Discord: Mergen#8451 </p>            <p align="center">- Web Page: http://mertatestopuz.com.tr/Link.html </p> 
 
